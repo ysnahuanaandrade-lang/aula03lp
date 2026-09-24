@@ -19,4 +19,11 @@ button {
     cursor: pointer;
 }
 
+.destaque {
+    background-color: beige;
+    font-weight: bold;
+
+
+}
+
 
